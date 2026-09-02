@@ -1,2 +1,5 @@
 ﻿# Compiled executables
 *.exe
+
+# VS Code Code Runner temp files
+tempCodeRunnerFile.cpp
