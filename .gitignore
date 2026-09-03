@@ -3,3 +3,6 @@
 
 # VS Code Code Runner temp files
 tempCodeRunnerFile.cpp
+
+# Visual Studio local cache
+.vs/
